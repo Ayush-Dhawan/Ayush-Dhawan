@@ -22,6 +22,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <button style="height: 2rem, width: 4rem, background-color: red">HTML</button> </p>
+<p align="left"> <div style="height: 2rem; width: 4rem; background-color: red">HTML</div> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-dhawan&show_icons=true&locale=en&layout=compact" alt="ayush-dhawan" /></p>
