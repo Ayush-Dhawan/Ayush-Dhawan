@@ -1,4 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ayush Dhawan</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center">Hi 👋, I'm Ayush Dhawan</h1>
 <h3 align="center">A fullstack web developer, UI/UX designer, 3d modeller, AI engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-dhawan&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-dhawan" /> </p>
@@ -25,3 +41,8 @@
 <p align="left"> <div style="height: 2rem; width: 4rem; background-color: red">HTML</div> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-dhawan&show_icons=true&locale=en&layout=compact" alt="ayush-dhawan" /></p>
+
+</body>
+</html>
+</body>
+</html>
