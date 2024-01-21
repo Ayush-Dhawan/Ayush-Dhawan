@@ -15,6 +15,7 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Ayush Dhawan</h1>
+    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." />
 <h3 align="center">A fullstack web developer, UI/UX designer, 3d modeller, AI engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-dhawan&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-dhawan" /> </p>
