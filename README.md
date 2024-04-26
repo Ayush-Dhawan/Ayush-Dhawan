@@ -1,6 +1,6 @@
 <body style="background-color: white">
   <h1 align="center">Hi 👋, I'm Ayush Dhawan</h1>
-<h3 align="center">A fullstack web developer, UI/UX designer, 3d modeller, AI engineer</h3>
+<h3 align="center">A fullstack web developer, mobile app developer, UI/UX designer, 3d modeller, AI engineer</h3>
 
 - 🔭 I’m currently pursuing **Btech. IOT, Mumbai University**
 
