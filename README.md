@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **any project that adds value**
 
-- 📝 I have some IOT articles at [https://xyzbbc9.wixsite.com/raspberrypi-island](https://xyzbbc9.wixsite.com/raspberrypi-island)
+- 📝 I have some blogs at mt personal blog page (https://ayush-blog-app.vercel.app/)
 
 - 💬 Ask me about **React, node, express, mongoDb, SQL, supabase, tensorflow and more...**
 
