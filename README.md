@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **any project that adds value**
 
-- 📝 I have some blogs at mt personal blog page (https://ayush-blog-app.vercel.app/)
+- 📝 I have some blogs at my personal blog page (https://ayush-blog-app.vercel.app/)
 
 - 💬 Ask me about **React, node, express, mongoDb, SQL, supabase, tensorflow and more...**
 
