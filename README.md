@@ -10,6 +10,10 @@
 
 - 💬 Ask me about **React, node, express, mongoDb, SQL, supabase, tensorflow and more...**
 
+- 💻Currently a backend developer at TRRAIN Circle pvt. ltd.
+
+- ⌚Previously worked at kamyab, tech innovators island and IEI TCET
+
 - 📫 Connect at **dhawanayush416@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
