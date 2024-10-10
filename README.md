@@ -12,7 +12,7 @@
 
 - 💻Currently a backend developer at TRRAIN Circle pvt. ltd.
 
-- ⌚Previously worked at kamyab, tech innovators island and IEI TCET
+- ⌚Previously worked at TRRAIN, kamyab, clusterize learning and IEI TCET
 
 - 📫 Connect at **dhawanayush416@gmail.com**
 
