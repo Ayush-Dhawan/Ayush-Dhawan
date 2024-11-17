@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, node, express, mongoDb, SQL, supabase, tensorflow and more...**
 
-- 💻Currently a backend developer at TRRAIN Circle pvt. ltd.
+- 💻Currently a backend developer at Goldior Luxury pvt. ltd.
 
 - ⌚Previously worked at TRRAIN, kamyab, clusterize learning and IEI TCET
 
